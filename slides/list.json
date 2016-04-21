@@ -2,30 +2,44 @@
     "00-index.md",
     "01-intro.md",
     [
-        "02-new-project-01.md",
-        "02-new-project-02.md",
-        "02-new-project-03.md",
-        "02-new-project-04.md",
-        "02-new-project-05.md",
-        "02-new-project-06.md"
+        "02-intro-01.md",
+        "02-intro-02.md",
+        "02-intro-03.md",
+        "02-intro-04.md",
+        "02-intro-05.md",
+        "02-intro-06.md",
+        "02-intro-07.md"
     ], [
-        "03-create-module-00.md",
-        "03-create-module-01.md",
-        "03-create-module-02.md",
-        "03-create-module-03.md",
-        "03-create-module-04.md"
+        "03-why-00.md",
+        "03-why-01.md",
+        "03-why-02.md",
+        "03-why-03.md",
+        "03-why-04.md"
     ], [
-        "04-bower-module-00.md",
-        "04-bower-module-01.md",
-        "04-bower-module-02.md",
-        "04-bower-module-03.md",
-        "04-bower-module-04.md",
-        "04-bower-module-05.md"
+        "04-api-00.md",
+        "04-api-01.md",
+        "04-api-02.md",
+        "04-api-03.md",
+        "04-api-04.md",
+        "04-api-05.md",
+        "04-api-06.md",
+        "04-api-07.md",
+        "04-api-08.md",
+        "04-api-09.md",
+        "04-api-10.md",
+        "04-api-11.md",
+        "04-api-12.md",
+        "04-api-13.md",
+        "04-api-14.md",
+        "04-api-15.md",
+        "04-api-16.md"
     ], [
-        "05-tabs-00.md",
-        "05-tabs-01.md",
-        "05-tabs-02.md",
-        "05-tabs-03.md",
-        "05-tabs-04.md"
+        "05-examples-00.md",
+        "05-examples-01.md",
+        "05-examples-02.md",
+        "05-examples-03.md",
+        "05-examples-04.md",
+        "05-examples-05.md",
+        "05-examples-06.md"
     ]
 ]
